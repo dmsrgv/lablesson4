@@ -1,2 +1,2 @@
-include ':app', ':thread'
+include ':app', ':thread', ':data_thread', ':looper', ':asynctask', ':loadermanager', ':service'
 rootProject.name='lablesson4'
